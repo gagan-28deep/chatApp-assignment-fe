@@ -29,3 +29,7 @@ Before you begin, ensure you have met the following requirements:
 - Create a .env file in the root directory.
 
 * VITE_BACKEND_URL , eg -> http://localhost:8000/api/v1
+
+* Start the development server:
+
+npm run dev / yarn dev
